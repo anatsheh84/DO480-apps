@@ -5,4 +5,4 @@ bases:
 - ../../base
 #resources:
 
-namePrefix: -apac 
+nameSuffix: -apac 
